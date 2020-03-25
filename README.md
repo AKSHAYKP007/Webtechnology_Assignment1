@@ -11,7 +11,7 @@
 
 #### Get the Project
 ```zsh
-git clone https://github.com/AKSHAYKP))&/Webtechnology_Assignment1.git
+git clone https://github.com/AKSHAYKP007/Webtechnology_Assignment1.git
 ```
 
 #### Run Web Server
