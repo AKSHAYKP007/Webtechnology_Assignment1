@@ -16,7 +16,7 @@ git clone https://github.com/AKSHAYKP007/Webtechnology_Assignment1.git
 
 #### Run Web Server
 ```zsh
-cd Webtechnology_Assignment1/server/RESTful API
+cd Webtechnology_Assignment1/server/RESTFUL API
 npm install
 npm start
 ```
