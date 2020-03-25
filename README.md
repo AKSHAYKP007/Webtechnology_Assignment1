@@ -30,4 +30,4 @@ npm start
 
 [Client Application](http://webtechnology-restapi.web.app/)
 
-![Screen shot of client application](./images/image.png)
+![Screen shot of client application](./image/image.png)
