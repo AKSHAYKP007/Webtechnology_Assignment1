@@ -11,20 +11,20 @@
 
 #### Get the Project
 ```zsh
-git clone https://github.com/shaheemMPM/WebTechnology-Assignment1.git
+git clone https://github.com/AKSHAYKP))&/Webtechnology_Assignment1.git
 ```
 
 #### Run Web Server
 ```zsh
-cd WebTechnology-Assignment1/server/RESTful API
+cd Webtechnology_Assignment1/server/RESTful API
 npm install
 npm start
 ```
 
 #### Run Web Client
-- Open **script.js**  from *WebTechnology-Assignment1/client/public/js*
+- Open **script.js**  from *Webtechnology_Assignment1/client/public/js*
 - Edit url of post script from heroku API to localhost:3000 [line 77 and 95]
-- Now open index.html from *WebTechnology-Assignment1/client/public* in a browser
+- Now open index.html from *Webtechnology_Assignment1/client/public* in a browser
 
 ## Demo
 
